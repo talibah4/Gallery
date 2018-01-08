@@ -1,0 +1,45 @@
+<!doctype html>
+<html>
+<head>
+
+<meta charset="utf-8">
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Gallery</title>
+<!-- TemplateEndEditable -->
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+<link href="../CSS/layout.css" rel="stylesheet" type="text/css">
+<style type="text/css">
+a:link {
+	color: #FF9900;
+	text-decoration: none;
+}
+a:hover {
+	color: #FFCC00;
+	text-decoration: none;
+}
+a:active {
+	text-decoration: none;
+}
+a:visited {
+	text-decoration: none;
+	color: #FF9900;
+}
+</style>
+</head>
+
+<body>
+<div class="container">
+  <div class="logo"><a href="../index.html"><img src="../Images/Gallery_logo.jpg" width="300" height="75" alt="Logo"></a></div>
+  <div class="navigation"><a href="../index.html">Home</a> <a href="../services.html">services</a> <a href="../portfolio.html">portfolio</a> <a href="../pricing.html">pricing</a> <a href="../session.html">session</a> <a href="../contact.html">contact</a></div>
+  <div class="image"><!-- TemplateBeginEditable name="imageArea" -->Image<!-- TemplateEndEditable --></div>
+  <div class="content"><!-- TemplateBeginEditable name="contentArea" -->Insert page content here.<!-- TemplateEndEditable --></div>
+  <div class="footer">
+    <p>Follow Us:<br>
+      <a href="https://www.facebook.com/TheGalleryPortraitAndFamilyPhotography"><img src="../Images/Facebook_image.jpg" width="36" height="36" alt="Facebook Icon"></a> <a href="https://twitter.com/TheGalleryPFP"><img src="../Images/Twitter_image.jpg" width="36" height="36" alt="Twitter Icon"></a></p>
+    <p>&nbsp;</p>
+    <p>Copyright 2014. All Rights Reserved. </p>
+  </div>
+</div>
+</body>
+</html>
